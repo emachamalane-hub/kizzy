@@ -1,0 +1,8 @@
+{
+  "name": "Fadada Academy",
+  "description": "Nascida em Inhambane, Moçambique, a Fadada Academy é o palco digital para alavancar o melhor da dança moçambicana e africana, seguindo talentos como Aymos e a força do Xigubo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
